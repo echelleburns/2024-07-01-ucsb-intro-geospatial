@@ -286,6 +286,7 @@ Edit the text to match who can attend the workshop. For instance:
 <hr/>
 
 <h2>Registration</h2>
+<p>Register for the workshop by clicking the link below and providing your e-mail address. We will use your e-mail address to inform you of any changes to the course schedule and provide additional information about the course. </p>
 <p class="text-center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfM_RqFS1fZ8qzF7AsThiMC5lQvBv6jNRxbdlxPxxWHS4bpQA/viewform?usp=sf_link">
     <button type="button" class="btn btn-info">Register for this workshop</button>

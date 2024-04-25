@@ -32,13 +32,6 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 
 
 {% comment %}
-8< ============= For a workshop delete from here =============
-For a workshop please delete the following block until the next dashed-line
-{% endcomment %}
-
-
-{% comment %}
-8< ============================= until here ==================
 {% endcomment %}
 
 
@@ -291,6 +284,13 @@ Edit the text to match who can attend the workshop. For instance:
 {% endcomment %}
 
 <hr/>
+
+<h2>Registration</h2>
+<p class="text-center">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfM_RqFS1fZ8qzF7AsThiMC5lQvBv6jNRxbdlxPxxWHS4bpQA/viewform?usp=sf_link">
+    <button type="button" class="btn btn-info">Register for this workshop</button>
+  </a>
+</p>
 
 {% comment%}
 CODE OF CONDUCT

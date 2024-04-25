@@ -292,6 +292,8 @@ Edit the text to match who can attend the workshop. For instance:
   </a>
 </p>
 
+<hr/>
+
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
